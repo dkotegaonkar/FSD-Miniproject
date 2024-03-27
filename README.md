@@ -3,7 +3,7 @@
 Movie ticket booking web application with MERN stack (MongoDB, Express, React, NodeJS) & Tailwind CSS
 
 ## Project Purpose
-The purpose of this project is to improve my full-stack web development skills, learning front-end technologies like React and Tailwind CSS, and backend technologies like Node.js, Express, and MongoDB.
+This project is part of assessment for our course of Full Stack Development in Third Year Btech Computer Science Engineering at MIT World Peace University .The purpose of this project is to improve our full-stack web development skills, learning front-end technologies like React and Tailwind CSS, and backend technologies like Node.js, Express, and MongoDB. Any doubts in the project, you can mail us at dhruvpkotegaonkar@gmail.com or maithili963@gmail.com
 
 ## Technologies
 * React v18.2.0
