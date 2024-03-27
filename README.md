@@ -2,15 +2,6 @@
 
 Movie ticket booking web application with MERN stack (MongoDB, Express, React, NodeJS) & Tailwind CSS
 
-Demo: https://cinema-booking-client.vercel.app/
-
-## Table of Contents
-* [Project Purpose](#project-purpose)
-* [Technologies](#technologies)
-* [Quick Tour](#quick-tour)
-* [Guide](#guide)
-* [How to run the app](#how-to-run-the-app)
-
 ## Project Purpose
 The purpose of this project is to improve my full-stack web development skills, learning front-end technologies like React and Tailwind CSS, and backend technologies like Node.js, Express, and MongoDB.
 
